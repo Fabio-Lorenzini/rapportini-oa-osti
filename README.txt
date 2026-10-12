@@ -40,3 +40,7 @@ AGGIORNAMENTO OA OSTI
 - Le bozze nell’archivio sono evidenziate in rosso.
 - Invio WhatsApp indirizzato al numero fisso +39 331 730 5949.
 - Il service worker precarica logo e icone per uso offline.
+
+PROTEZIONE ARCHIVIAZIONE
+- All'avvio l'app chiede al browser l'archiviazione persistente, per ridurre il rischio che Chrome elimini automaticamente i dati per recuperare spazio.
+- Questa richiesta NON può impedire la cancellazione manuale dei dati del sito tramite “Cancella dati di navigazione” o le impostazioni di Chrome. Per protezione reale contro tale operazione serve esportare regolarmente il backup in una posizione esterna o aggiungere una sincronizzazione remota.
