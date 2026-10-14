@@ -1,4 +1,4 @@
-const CACHE = 'oaosti-app-v9';
+const CACHE = 'oaosti-app-v10';
 const FILES = ['./', './index.html', './manifest.webmanifest', './logo-oa-osti.png', './icon-192.png', './icon-512.png'];
 
 // Installa la nuova versione e attivala subito, senza aspettare la chiusura di tutte le schede.
